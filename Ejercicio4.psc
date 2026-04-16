@@ -17,18 +17,15 @@ Algoritmo Ejercicio4
 		2:
 			Escribir "Usted a solositado -->"
 			Escribir "Una Pizza"
-		1:
+		3:
 			Escribir "Usted a solositado -->"
 			Escribir "Un Pollo frito"
-		1:
+		4:
 			Escribir "Usted a solositado -->"
 			Escribir "Una Ensalada"
-		1:
+		5:
 			Escribir "SALIENDO DEL SISTEMA"
 		De Otro Modo:
 			Escribir "Seleccione un Menu"
 	Fin Segun
-	
-	Escribir msj
-	Escribir result
 FinAlgoritmo
