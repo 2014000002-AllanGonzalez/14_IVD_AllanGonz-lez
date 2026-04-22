@@ -1,0 +1,3 @@
+jfrmEjercicio1 nuevo = new jfrmEjercicio1();
+        nuevo.setVisible(true);
+        this.hide();
